@@ -1,6 +1,6 @@
 # GNAME 免费域名计划
 
-![GNAME FREE DOMAIN PLAN](./resources/logo.png)
+![GNAME FREE DOMAIN PLAN](../../resources/logo.png)
 
 欢迎加入 GNAME 免费域名计划。作为来自新加坡的专业国际域名注册商，GNAME 致力于为全球用户提供便捷、高效、开放的数字身份服务。 
 
@@ -70,6 +70,4 @@
 我们高度重视域名滥用行为，致力于共同维护一个更加安全、开放的互联网环境。每一份举报我们都会认真核查并妥善处理，回复时间可能因案件复杂程度不同而在数小时至数日之间有所差异。
 
 ➡️ [滥用域名在线举报 >>](https://www.gname.com/abuse)
-
-举报邮箱：complaint@gname.com
 
