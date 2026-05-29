@@ -22,7 +22,7 @@ Choosing a free domain helps reduce trial costs, allowing more ideas to be launc
 
 ## 3️⃣ How to Start Registering a Free Domain?
 
-➡️ [Start Free Registration Now](https://www.gname.com/us/tld-eu-cc.html)
+➡️ [Start Free Registration Now](https://www.gname.com/tld-eu-cc.html)
 
 ➡️ [Read the Beginner Guide](./documents/guide.md)
 
@@ -60,7 +60,7 @@ According to registry requirements, premium domains such as 2-letter domains (e.
 Fully supports Cloudflare. You can apply for SSL certificates, activate enterprise email services, use CDN products, and more, just like with a top-level domain.
 ```
 
-➡️ [More Frequently Asked Questions >>](https://www.gname.com/us/help)
+➡️ [More Frequently Asked Questions >>](https://www.gname.com/help)
 
 ## 6️⃣ Follow Us
 
@@ -74,6 +74,5 @@ We strongly recommend starring this project to stay updated with the latest news
 
 We highly value the handling of domain abuse and are committed to maintaining a safer and more open Internet environment together. Every report will be carefully reviewed and properly handled. Response times may vary from several hours to several days depending on the complexity of the case.
 
-➡️ [Report Domain Abuse Online >>](https://www.gname.com/us/abuse)
+➡️ [Report Domain Abuse Online >>](https://www.gname.com/abuse)
 
-Report Email: [complaint@gname.com](mailto:complaint@gname.com)
